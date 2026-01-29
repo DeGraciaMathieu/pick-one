@@ -1,17 +1,17 @@
 <?php
 
 return [
-    'question' => 'Quelle solution préférez-vous ?',
+    'question' => 'Quand on marche sur une feuille, elle fait',
 
     'option_a' => [
-        'label' => 'Solution A',
-        'description' => 'Première proposition',
+        'label' => 'cronch-cronch',
+        'description' => '',
         'color' => '#6366f1',
     ],
 
     'option_b' => [
-        'label' => 'Solution B',
-        'description' => 'Deuxième proposition',
+        'label' => 'scroutch-scroutch',
+        'description' => '',
         'color' => '#f43f5e',
     ],
 ];
